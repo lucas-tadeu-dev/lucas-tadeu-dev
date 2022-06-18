@@ -24,4 +24,6 @@ Olá! Eu sou o lucas-tadeu-dev 👋
   <a href="https://instagram.com/lucasbatista088" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="[https://discord.gg/Lucas123454#6526" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)"></a> 
  
-</div>
+  ![Snake animation](https://github.com/lucas-tadeu-dev/lucas-tadeu-dev/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
