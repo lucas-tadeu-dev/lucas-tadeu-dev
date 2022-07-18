@@ -29,8 +29,7 @@ Olá! Eu sou o lucas-tadeu-dev 👋
   <a href="[https://discord.gg/Lucas123454#6526" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)"></a> 
  
  
-  
-  ![Snake animation](https://github.com/lucas-tadeu-dev/lucas-tadeu-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lucas-tadeu-dev/blob/output/github-contribution-grid-snake.svg)
   
   </div>
 
