@@ -1,15 +1,23 @@
 👋 Greetings! I am a Full Stack developer with more than 4 years of experience.
+<br>
 My main stacks are:
+<br>
 -👨‍💻 Language: PHP, JavaScript, JAVA
 <br>
 -💻 Framework: Node.js, Laravel, Codeigniter, JSF
 <br>
 -🔭 Cloud: AWS, Google Cloud
+<br>
 -😄 Rest API (create, extract and document)
+<br>
 -💻 Database: MySQL/MariaDB with and without PDO, PostgreSQL
+<br>
 -📚 MVC architecture
+<br>
 -⌨ Front-end: React, JavaScript, Ajax and Jquery
+<br>
 -📴 CSS, SASS/SCSS
+<br>
 -👨‍💻 WordPress (programming plugins), and construction/maintenance of e-commerce.
 
 I have advanced knowledge in Databases such as MySQL/MariaDB, from simple CRUD to more advanced queries, developing optimized and secure DBs. I use PDO too.
