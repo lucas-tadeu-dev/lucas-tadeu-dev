@@ -1,9 +1,18 @@
-Olá dev! Eu sou o lucas-tadeu-dev 👋
+👋 Greetings! I am a Full Stack developer with more than 4 years of experience.
+My main stacks are:
+👨‍💻 Language: PHP, JavaScript, JAVA
+💻 Framework: Node.js, Laravel, Codeigniter, JSF
+🔭 Cloud: AWS, Google Cloud
+😄 Rest API (create, extract and document)
+💻 Database: MySQL/MariaDB with and without PDO, PostgreSQL
+📚 MVC architecture
+⌨ Front-end: React, JavaScript, Ajax and Jquery
+📴 CSS, SASS/SCSS
+👨‍💻 WordPress (programming plugins), and construction/maintenance of e-commerce.
 
-- 🔭 Sou desenvolvedor Full Stack PHP e JavaScript há quatro anos como  freelancer na Workana e Upwork...
-- ⌨ Desenvolvo sites modernos e responsivos com CSS, JavaScript para pequenos e médios negócios ...
-- 📚 Também trabalho com frameworks como React, Node.js, Laravel, Codeigniter...
-- 😄 Subo projetos pequenos como também projetos grandes no git-hub ...
+I have advanced knowledge in Databases such as MySQL/MariaDB, from simple CRUD to more advanced queries, developing optimized and secure DBs. I use PDO too.
+
+I develop small and medium-sized projects, from constitutional websites, landing pages, to E-Commerce, integration with payments and mail (WooCommerce, Rest API) and even maintenance and/or code refactoring.
 
 <div align="left">
   <a href="https://github.com/lucas-tadeu-dev">
