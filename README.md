@@ -1,7 +1,9 @@
 👋 Greetings! I am a Full Stack developer with more than 4 years of experience.
 My main stacks are:
 -👨‍💻 Language: PHP, JavaScript, JAVA
+<br>
 -💻 Framework: Node.js, Laravel, Codeigniter, JSF
+<br>
 -🔭 Cloud: AWS, Google Cloud
 -😄 Rest API (create, extract and document)
 -💻 Database: MySQL/MariaDB with and without PDO, PostgreSQL
