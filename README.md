@@ -2,27 +2,31 @@
 <br>
 My main stacks are:
 <br>
--👨‍💻 Language: PHP, JavaScript, JAVA
+-👨‍💻 Back-end: PHP, Node.js, Laravel, Codeigniter
 <br>
--💻 Framework: Node.js, Laravel, Codeigniter, JSF
+-💻 Front-end: JavaScript, React, Typescript and Jquery
 <br>
--🔭 Cloud: AWS, Google Cloud
+-🔭 Database: MySQL/MariaDB, PDO, PostgreSQL, MongoDB, Cassandra and Redis
 <br>
--😄 Rest API (create, extract and document)
+-😄  AWS, Google Cloud, Docker
 <br>
--💻 Database: MySQL/MariaDB with and without PDO, PostgreSQL
+-💻  Rest API (create, consume and document), SOAP
 <br>
--📚 MVC architecture
+-📚 Unit test: PHPUnit, Jest
 <br>
--⌨ Front-end: React, JavaScript, Ajax and Jquery
+-⌨ MVC architecture, Microservices, Event Driven architecture, Pub/sub and Kafka
 <br>
--📴 CSS, SASS/SCSS
+-📴Design: CSS, SASS/SCSS and Tailwind
 <br>
--👨‍💻 WordPress (programming plugins), and construction/maintenance of e-commerce.
+-👨‍💻 WordPress/Woocommerce: Expertise in developing with programming (custom-code, plugins)
 
-I have advanced knowledge in Databases such as MySQL/MariaDB, from simple CRUD to more advanced queries, developing optimized and secure DBs. I use PDO too.
+My skills go beyond techniques, I am very focused on understanding my client's business rules and developing performance solutions in record time.
 
-I develop small and medium-sized projects, from constitutional websites, landing pages, to E-Commerce, integration with payments and mail (WooCommerce, Rest API) and even maintenance and/or code refactoring.
+Advanced knowledge in Databases such as MySQL/MariaDB, from simple CRUD to more advanced queries, developing optimized and secure DBs. I use PDO too.
+
+Develop small and medium-sized projects, from constitutional websites, landing pages, to E-Commerce, integration with payments and mail (WooCommerce, Rest API) and even maintenance and/or code refactoring.
+
+Furthermore, I am a responsible worker, with great communication skills, happy to work in a team and lead product evolution and improvement initiatives. I enjoy long-term projects.
 
 <div align="left">
   <a href="https://github.com/lucas-tadeu-dev">
