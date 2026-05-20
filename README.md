@@ -16,8 +16,6 @@
 	
 ## 👨‍💻 **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 I am a Backend Developer with over 7 years of experience building scalable and high-impact solutions.
